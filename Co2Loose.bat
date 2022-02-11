@@ -1,0 +1,2 @@
+xcopy /y "D:\Mods\DokkanBattle\UnidokkanSDK\sdk-master\projects\TranslationAddon\build-release\libTranslation_addon.so" "C:\Users\Joffr\Downloads\MEmu Download\LooseLoad\libTranslation_addon.so"
+xcopy /y "D:\Mods\DokkanBattle\UnidokkanSDK\sdk-master\projects\TranslationAddonNetwork\build-release\libTranslation_addon_network.so" "C:\Users\Joffr\Downloads\MEmu Download\LooseLoad\libTranslation_addon_network.so"
